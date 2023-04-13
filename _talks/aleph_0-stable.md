@@ -1,5 +1,5 @@
 ---
-title: "$\aleph_0$-stable AECs"
+title: $\aleph_0$"-stable AECs"
 collection: talks
 type: "Talk"
 permalink: /talks/aleph_0-stable
