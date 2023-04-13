@@ -10,4 +10,3 @@ location: "Pittsburgh, USA"
 
 
 Algebraic Structures, Matrix Algebra, Set Theory
-======
