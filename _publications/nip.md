@@ -2,6 +2,7 @@
 title: "An NIP-like notion in abstract elementary classes"
 collection: publications
 permalink: /publication/nip
+
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-03-07
 #venue: 'Journal 1'
