@@ -9,5 +9,4 @@ location: "Pittsburgh, USA"
 ---
 
 
-Differential and Integral Calculus, Matrix Algebra with Applications=, Integration and Approximation, Advanced Math Support Center
-======
+Differential and Integral Calculus, Matrix Algebra with Applications, Integration and Approximation, Advanced Math Support Center

@@ -1,11 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Shelah’s eventual categoricity conjecture in universal classes,"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+permalink: /talks/univ
+venue: "Model Theory Seminar, Carnegie Mellon University"
+date: 2022-02-24
+location: "Pittsburgh, PA"
 ---
 
 [More information here](http://exampleurl.com)
