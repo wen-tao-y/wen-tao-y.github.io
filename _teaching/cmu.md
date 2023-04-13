@@ -8,17 +8,6 @@ venue: "Carnegie Mellon University, Department of Mathematical Sciences"
 location: "Pittsburgh, USA"
 ---
 
-Fall 2019
-21-120, Differential and Integral Calculus
-======
 
-Spring 2020
-21-240, Matrix Algebra with Applications
+Differential and Integral Calculus, Matrix Algebra with Applications=, Integration and Approximation, Advanced Math Support Center
 ======
-
-Spring 2022
-21-122, Integration and Approximation, TA
-======
-
-Fall 2022
-Advanced Math Support Center, TA
