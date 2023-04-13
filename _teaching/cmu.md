@@ -8,11 +8,17 @@ venue: "Carnegie Mellon University, Department of Mathematical Sciences"
 location: "Pittsburgh, USA"
 ---
 
-Heading 1
+Fall 2019
+21-120, Differential and Integral Calculus
 ======
 
-Heading 2
+Spring 2020
+21-240, Matrix Algebra with Applications
 ======
 
-Heading 3
+
+Spring 2022
+21-122, Integration and Approximation, TA
 ======
+Fall 2022
+Advanced Math Support Center, TA
