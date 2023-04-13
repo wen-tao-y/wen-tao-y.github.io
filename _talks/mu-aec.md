@@ -1,9 +1,9 @@
 ---
 title: "Some relations between $\mu$-abstarct elementary classes and accessible categories"
 collection: talks
-type: "Talk"
+type: "HoTT Seminar"
 permalink: /talks/mu-aec
-venue: "HoTT Seminar, Carnegie Mellon University"
+venue: "Carnegie Mellon University"
 date: 2022-05-06    
 location: "Pittsburgh, PA"
 ---

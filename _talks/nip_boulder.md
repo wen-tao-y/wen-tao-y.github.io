@@ -1,9 +1,9 @@
 ---
 title: "An NIP-like notion in abstract elementary classes"
 collection: talks
-type: "Talk"
+type: "PALS Seminar"
 permalink: /talks/nip_boulder
-venue: "PALS Seminar, University of Colorado, Boulder, Department of Mathematics"
+venue: "University of Colorado, Boulder, Department of Mathematics"
 date: 2023-04-04
 location: "Boulder, CO"
 ---

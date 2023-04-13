@@ -1,9 +1,9 @@
 ---
 title: $\aleph_0$-stable AECs
 collection: talks
-type: "Talk"
+type: "Model Theory Seminar"
 permalink: /talks/aleph_0-stable
-venue: "Model Theory Seminar, Carnegie Mellon University"
+venue: "Carnegie Mellon University"
 date: 2021-04-22    
 location: "Pittsburgh, PA"
 ---

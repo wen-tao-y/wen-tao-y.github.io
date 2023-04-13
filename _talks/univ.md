@@ -1,9 +1,9 @@
 ---
 title: "Shelah’s eventual categoricity conjecture in universal classes,"
 collection: talks
-type: "Tutorial"
+type: "Model Theory Seminar"
 permalink: /talks/univ
-venue: "Model Theory Seminar, Carnegie Mellon University"
+venue: "Carnegie Mellon University"
 date: 2022-02-24
 location: "Pittsburgh, PA"
 ---
