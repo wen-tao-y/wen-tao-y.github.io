@@ -1,5 +1,5 @@
 ---
-title: "Some relations between $\mu$-abstarct elementary classes and accessible categories"
+title: Some relations between $\mu$-abstarct elementary classes and accessible categories
 collection: talks
 type: "HoTT Seminar"
 permalink: /talks/mu-aec
