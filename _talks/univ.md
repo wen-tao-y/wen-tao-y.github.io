@@ -8,6 +8,4 @@ date: 2022-02-24
 location: "Pittsburgh, PA"
 ---
 
-[More information here](http://exampleurl.com)
-
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+We present Sebastien Vasey’s proof of Shelah’s categoricity conjecture in universal classes. First we change the substructure relation of the given class to obtain an AEC with better properties, except that the union axiom might not hold. To prove that the union axiom holds, we use the independence framework AxFr developed by Shelah, build an “independent” tree assuming the failure of union, and contradict stability.
