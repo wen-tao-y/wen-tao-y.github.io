@@ -16,6 +16,6 @@ Some links
 ===
 + [Wikipedia page of AECs](https://en.wikipedia.org/wiki/Abstract_elementary_class)
 + [the CMU Math Department](https://math.cmu.edu)
-+ [Pure and Applied Logic](https://logic.cmu.edu)
++ [Pure and Applied Logic](http://logic.cmu.edu)
 + [Shelah's Archive](https://shelah.logic.at)
 + [nLab](https://ncatlab.org)
