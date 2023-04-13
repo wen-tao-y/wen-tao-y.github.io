@@ -4,7 +4,7 @@ collection: publications
 date: 2023-03-07
 permalink: /publication/nip
 venue: 'preprint'
-paperurl: '../files/nip.pdf'
+#paperurl: '../files/nip.pdf'
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 
 arXiv: "https://arxiv.org/abs/2303.04125"
