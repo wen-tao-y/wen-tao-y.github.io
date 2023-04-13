@@ -15,7 +15,7 @@ I am interested in abstract elementary classes (AECs), a generalization of eleme
 Some links
 ===
 + [Wikipedia page of AECs](https://en.wikipedia.org/wiki/Abstract_elementary_class)
-+ [the CMU Math Department](math.cmu.edu)
-+ [Pure and Applied Logic](logic.cmu.edu)
-+ [Shelah's Archive](shelah.logic.at)
-+ [nLab](ncatlab.org)
++ [the CMU Math Department](https://math.cmu.edu)
++ [Pure and Applied Logic](https://logic.cmu.edu)
++ [Shelah's Archive](https://shelah.logic.at)
++ [nLab](https://ncatlab.org)
