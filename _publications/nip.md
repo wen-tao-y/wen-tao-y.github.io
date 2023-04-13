@@ -4,7 +4,7 @@ collection: publications
 date: 2023-03-07
 permalink: /publication/nip
 
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 
 #venue: 'Journal 1'
 paperurl: 'http://wen-tao-y.github.io/files/nip.pdf'
