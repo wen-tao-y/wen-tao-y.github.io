@@ -1,9 +1,12 @@
 ---
+author: 'Wentao Yang'
 title: "An NIP-like notion in abstract elementary classes"
 collection: publications
 date: 2023-03-07
+last_updated: 2022-09-03
 permalink: /publication/nip
 venue: 'preprint'
+pages: 19
 #paperurl: '../files/nip.pdf'
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 
