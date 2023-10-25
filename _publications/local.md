@@ -1,5 +1,5 @@
 ---
-author: 'Marcos-Mazari Armida and Wentao Yang'
+author: 'Marcos Mazari-Armida and Wentao Yang'
 title: "Building models in small cardinals in local abstract elementary classes"
 collection: publications
 date: 2023-10-11
