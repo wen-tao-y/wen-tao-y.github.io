@@ -8,7 +8,7 @@ permalink: /publication/nip
 venue: 'preprint'
 pages: 19
 paperurl: '../files/nip.pdf'
-excerpt: 'Last updated on 2023-09-03.'
+excerpt: 'Last updated on 2023-09-18.'
 
 arXiv: "https://arxiv.org/abs/2303.04125"
 
