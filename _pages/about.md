@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student studying logic at Carnegie Mellon Unviersity, advised by <a href="http://math.cmu.edu/~rami">Rami Grossberg</a>. Before I came to CMU, I obtained my BMath at the <a href="http://uwaterloo.ca">University of Waterloo</a>. 
 
-I am interested in abstract elementary classes (AECs), a generalization of elementary classes, i.e. classes of first order theories. Recently I wrote a [paper](publication/local) on successive categoricity.
+I am interested in abstract elementary classes (AECs), a generalization of elementary classes, i.e. classes of first order theories. Recently I wrote a [paper](publication/local) with <a href='https://sites.baylor.edu/marcos_mazari/'>Marcos Mazari-Armida</a> on successive categoricity.
 
 Some links
 ===
