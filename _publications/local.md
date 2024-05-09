@@ -2,13 +2,13 @@
 author: 'Marcos Mazari-Armida and Wentao Yang'
 title: "Building models in small cardinals in local abstract elementary classes"
 collection: publications
-date: 2023-10-11
-last_updated: 2022-10-22
+date: 2024-05-01
+last_updated: 2024-05-01
 permalink: /publication/local
-venue: 'preprint'
-pages: 12
+venue: 'Journal of Symbolic Logic'
+pages: 10
 paperurl: '../files/ext.pdf'
-excerpt: 'Last updated on 2023-10-22.'
+excerpt: 'To appear.'
 
 arXiv: "https://arxiv.org/abs/2310.14474"
 
