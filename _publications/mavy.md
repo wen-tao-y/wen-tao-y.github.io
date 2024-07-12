@@ -4,7 +4,7 @@ title: "On Stability and Existence of Models in Abstract Elementary Classes"
 collection: publications
 date: 2024-06-21
 last_updated: 2024-06-21
-permalink: /publication/stability
+permalink: /publication/mavy
 venue: 'preprint'
 pages: 20
 paperurl: '../files/mavy.pdf'
