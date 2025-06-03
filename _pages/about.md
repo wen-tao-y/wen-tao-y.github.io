@@ -10,7 +10,7 @@ redirect_from:
 
 I am a researcher at Inner Mongolia University. I got my Ph.D. at Carnegie Mellon Unviersity, advised by <a href="http://math.cmu.edu/~rami">Rami Grossberg</a>. 
 
-I am interested in abstract elementary classes (AECs), a generalization of elementary classes, i.e. classes of first order theories. Recently I wrote a [paper](publication/mavy) with <a href='https://sites.baylor.edu/marcos_mazari/'>Marcos Mazari-Armida</a> and <a href='https://svasey.com'>Sebastien Vasey</a> .
+I am interested in abstract elementary classes (AECs), a generalization of elementary classes, i.e. classes of first order theories. The next <a href="https://wen-tao-y.github.io/delta.html"> Delta Logic Workshop </a> will be held at Inner Mongolia University this September.
 
 Some links
 ===
